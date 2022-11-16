@@ -28,7 +28,7 @@
     <Copyright>Microsoft</Copyright>
     <DelaySign>false</DelaySign>
     <AssemblyOriginatorKeyFile>C:\Users\msadoff\Documents\mykey.snk</AssemblyOriginatorKeyFile>
-    <GenerateSealed>True</GenerateSealed>
+    <GenerateSealed>False</GenerateSealed>
   </PropertyGroup>
   <ItemGroup>
     <ManagementPackReference Include="Microsoft.SystemCenter.Library">
