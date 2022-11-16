@@ -18,7 +18,7 @@
     <Company>MyCompany</Company>
     <Copyright>Copyright (c) MyCompany. All rights reserved.</Copyright>
     <DelaySigning>False</DelaySigning>
-    <AssemblyOriginatorKeyFile>C:\Users\msadoff\Documents\mykey.snk</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile></AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
     <DebugSymbols>false</DebugSymbols>
