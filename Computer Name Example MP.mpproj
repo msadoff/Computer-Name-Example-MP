@@ -27,7 +27,8 @@
     <Company>Microsoft</Company>
     <Copyright>Microsoft</Copyright>
     <DelaySign>false</DelaySign>
-    <AssemblyOriginatorKeyFile>C:\Users\msadoff\Documents\mykey.snk</AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
     <GenerateSealed>False</GenerateSealed>
   </PropertyGroup>
   <ItemGroup>
